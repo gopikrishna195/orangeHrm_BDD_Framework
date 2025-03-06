@@ -1,0 +1,60 @@
+17:12:01:090 [main] INFO  testDefinitions.stepDefinitions -filling the details
+17:12:07:842 [main] INFO  testDefinitions.stepDefinitions -click on save
+17:12:13:461 [main] WARN  testDefinitions.stepDefinitions -profile details is  visible
+17:12:14:166 [main] INFO  testDefinitions.stepDefinitions -close the browser
+17:12:16:906 [main] INFO  testDefinitions.stepDefinitions -browser is opened
+17:12:24:820 [main] INFO  testDefinitions.stepDefinitions -user enter the url
+17:12:26:297 [main] INFO  testDefinitions.stepDefinitions -user enter the mail and password
+17:12:28:102 [main] INFO  testDefinitions.stepDefinitions -user click on login
+17:12:28:831 [main] WARN  testDefinitions.stepDefinitions -Test passed:user can able to see dashboard
+17:12:29:275 [main] INFO  testDefinitions.stepDefinitions -close the browser
+17:39:32:796 [main] INFO  testDefinitions.stepDefinitions -browser is opened
+17:39:38:570 [main] INFO  testDefinitions.stepDefinitions -user enter the url
+17:39:40:113 [main] INFO  testDefinitions.stepDefinitions -user enter the mail and password
+17:39:41:779 [main] INFO  testDefinitions.stepDefinitions -user click on login
+17:39:42:477 [main] WARN  testDefinitions.stepDefinitions -Test passed:user can able to see dashboard
+17:39:42:481 [main] INFO  testDefinitions.stepDefinitions -user click on pimbutton
+17:39:44:738 [main] WARN  testDefinitions.stepDefinitions -pim dashboard is visible
+17:39:44:742 [main] INFO  testDefinitions.stepDefinitions -click on add button
+17:39:45:565 [main] INFO  testDefinitions.stepDefinitions -filling the details
+17:39:52:386 [main] INFO  testDefinitions.stepDefinitions -click on save
+17:39:58:293 [main] WARN  testDefinitions.stepDefinitions -profile details is  visible
+17:39:58:765 [main] INFO  testDefinitions.stepDefinitions -close the browser
+17:40:00:880 [main] INFO  testDefinitions.stepDefinitions -browser is opened
+17:40:05:446 [main] INFO  testDefinitions.stepDefinitions -close the browser
+17:41:02:979 [main] INFO  testDefinitions.stepDefinitions -browser is opened
+17:41:09:617 [main] INFO  testDefinitions.stepDefinitions -user enter the url
+17:41:11:543 [main] INFO  testDefinitions.stepDefinitions -user enter the mail and password
+17:41:13:358 [main] INFO  testDefinitions.stepDefinitions -user click on login
+17:41:14:159 [main] WARN  testDefinitions.stepDefinitions -Test passed:user can able to see dashboard
+17:41:14:620 [main] INFO  testDefinitions.stepDefinitions -close the browser
+17:43:01:351 [main] INFO  testDefinitions.stepDefinitions -browser is opened
+17:43:08:748 [main] INFO  testDefinitions.stepDefinitions -user enter the url
+17:43:10:563 [main] INFO  testDefinitions.stepDefinitions -user enter the mail and password
+17:43:12:163 [main] INFO  testDefinitions.stepDefinitions -user click on login
+17:43:12:885 [main] WARN  testDefinitions.stepDefinitions -Test passed:user can able to see dashboard
+17:43:13:346 [main] INFO  testDefinitions.stepDefinitions -close the browser
+18:04:08:937 [main] INFO  testDefinitions.stepDefinitions -browser is opened
+18:04:14:526 [main] INFO  testDefinitions.stepDefinitions -user enter the url
+18:04:15:786 [main] INFO  testDefinitions.stepDefinitions -user enter the mail and password
+18:04:16:028 [main] INFO  testDefinitions.stepDefinitions -user click on login
+18:04:18:140 [main] WARN  testDefinitions.stepDefinitions -Test passed:user can able to see dashboard
+18:04:18:141 [main] INFO  testDefinitions.stepDefinitions -user click on pimbutton
+18:04:20:170 [main] WARN  testDefinitions.stepDefinitions -pim dashboard is visible
+18:04:20:175 [main] INFO  testDefinitions.stepDefinitions -click on add button
+18:04:21:007 [main] INFO  testDefinitions.stepDefinitions -filling the details
+18:04:27:733 [main] INFO  testDefinitions.stepDefinitions -click on save
+18:04:33:821 [main] WARN  testDefinitions.stepDefinitions -profile details is  visible
+18:04:34:462 [main] INFO  testDefinitions.stepDefinitions -close the browser
+18:06:06:767 [main] INFO  testDefinitions.stepDefinitions -browser is opened
+18:06:12:788 [main] INFO  testDefinitions.stepDefinitions -user enter the url
+18:06:14:400 [main] INFO  testDefinitions.stepDefinitions -user enter the mail and password
+18:06:16:037 [main] INFO  testDefinitions.stepDefinitions -user click on login
+18:06:16:794 [main] WARN  testDefinitions.stepDefinitions -Test passed:user can able to see dashboard
+18:06:17:230 [main] INFO  testDefinitions.stepDefinitions -close the browser
+18:07:32:081 [main] INFO  testDefinitions.stepDefinitions -browser is opened
+18:07:39:176 [main] INFO  testDefinitions.stepDefinitions -user enter the url
+18:07:41:251 [main] INFO  testDefinitions.stepDefinitions -user enter the mail and password
+18:07:43:241 [main] INFO  testDefinitions.stepDefinitions -user click on login
+18:07:43:994 [main] WARN  testDefinitions.stepDefinitions -Test passed:user can able to see dashboard
+18:07:44:439 [main] INFO  testDefinitions.stepDefinitions -close the browser

@@ -1,0 +1,59 @@
+18:00:45:227 [main] INFO  testDefinitions.stepDefinitions -****launching the setup*******
+18:00:45:246 [main] INFO  testDefinitions.stepDefinitions -browser is opened
+18:00:53:466 [main] INFO  testDefinitions.stepDefinitions -user enter the url
+18:00:55:174 [main] INFO  testDefinitions.stepDefinitions -user enter the mail and password
+18:00:57:173 [main] INFO  testDefinitions.stepDefinitions -user click on login
+18:00:58:031 [main] WARN  testDefinitions.stepDefinitions -Test passed:user can able to see dashboard
+18:00:58:472 [main] INFO  testDefinitions.stepDefinitions -close the browser
+18:01:00:274 [main] INFO  testDefinitions.stepDefinitions -****launching the setup*******
+18:01:00:275 [main] INFO  testDefinitions.stepDefinitions -browser is opened
+18:01:08:168 [main] INFO  testDefinitions.stepDefinitions -user enter the url
+18:01:09:460 [main] INFO  testDefinitions.stepDefinitions -user enter the mail and password
+18:01:11:216 [main] INFO  testDefinitions.stepDefinitions -user click on login
+18:01:12:020 [main] WARN  testDefinitions.stepDefinitions -Test passed:user can able to see dashboard
+18:01:12:381 [main] INFO  testDefinitions.stepDefinitions -close the browser
+18:01:14:136 [main] INFO  testDefinitions.stepDefinitions -****launching the setup*******
+18:01:14:136 [main] INFO  testDefinitions.stepDefinitions -browser is opened
+18:01:23:419 [main] INFO  testDefinitions.stepDefinitions -user enter the url
+18:01:25:062 [main] INFO  testDefinitions.stepDefinitions -user enter the mail and password
+18:01:26:722 [main] INFO  testDefinitions.stepDefinitions -user click on login
+18:04:42:234 [main] INFO  testDefinitions.stepDefinitions -****launching the setup*******
+18:04:42:255 [main] INFO  testDefinitions.stepDefinitions -browser is opened
+18:04:50:172 [main] INFO  testDefinitions.stepDefinitions -user enter the url
+18:04:51:901 [main] INFO  testDefinitions.stepDefinitions -user enter the mail and password
+18:04:53:917 [main] INFO  testDefinitions.stepDefinitions -user click on login
+18:04:54:847 [main] WARN  testDefinitions.stepDefinitions -Test passed:user can able to see dashboard
+18:04:55:278 [main] INFO  testDefinitions.stepDefinitions -close the browser
+18:04:56:858 [main] INFO  testDefinitions.stepDefinitions -****launching the setup*******
+18:04:56:860 [main] INFO  testDefinitions.stepDefinitions -browser is opened
+18:05:06:070 [main] INFO  testDefinitions.stepDefinitions -user enter the url
+18:05:07:737 [main] INFO  testDefinitions.stepDefinitions -user enter the mail and password
+18:05:09:500 [main] INFO  testDefinitions.stepDefinitions -user click on login
+18:05:10:711 [main] WARN  testDefinitions.stepDefinitions -Test passed:user can able to see dashboard
+18:05:11:176 [main] INFO  testDefinitions.stepDefinitions -close the browser
+18:05:12:843 [main] INFO  testDefinitions.stepDefinitions -****launching the setup*******
+18:05:12:844 [main] INFO  testDefinitions.stepDefinitions -browser is opened
+18:05:22:523 [main] INFO  testDefinitions.stepDefinitions -user enter the url
+18:05:24:146 [main] INFO  testDefinitions.stepDefinitions -user enter the mail and password
+18:05:25:864 [main] INFO  testDefinitions.stepDefinitions -user click on login
+18:08:39:817 [main] INFO  testDefinitions.stepDefinitions -browser is opened
+18:08:47:696 [main] INFO  testDefinitions.stepDefinitions -user enter the url
+18:08:49:431 [main] INFO  testDefinitions.stepDefinitions -user enter the mail and password
+18:08:51:788 [main] INFO  testDefinitions.stepDefinitions -user click on login
+18:08:52:591 [main] WARN  testDefinitions.stepDefinitions -Test passed:user can able to see dashboard
+18:08:53:145 [main] INFO  testDefinitions.stepDefinitions -close the browser
+18:08:54:881 [main] INFO  testDefinitions.stepDefinitions -browser is opened
+18:09:02:741 [main] INFO  testDefinitions.stepDefinitions -user enter the url
+18:09:04:383 [main] INFO  testDefinitions.stepDefinitions -user enter the mail and password
+18:09:06:251 [main] INFO  testDefinitions.stepDefinitions -user click on login
+18:09:07:014 [main] WARN  testDefinitions.stepDefinitions -Test passed:user can able to see dashboard
+18:09:07:419 [main] INFO  testDefinitions.stepDefinitions -close the browser
+18:09:09:267 [main] INFO  testDefinitions.stepDefinitions -browser is opened
+18:09:16:837 [main] INFO  testDefinitions.stepDefinitions -user enter the url
+18:09:18:629 [main] INFO  testDefinitions.stepDefinitions -user enter the mail and password
+18:09:20:614 [main] INFO  testDefinitions.stepDefinitions -user click on login
+18:14:51:280 [main] INFO  testDefinitions.stepDefinitions -browser is opened
+18:14:59:174 [main] INFO  testDefinitions.stepDefinitions -user enter the url
+18:15:00:950 [main] INFO  testDefinitions.stepDefinitions -user enter the mail and password
+18:15:02:864 [main] INFO  testDefinitions.stepDefinitions -user click on login
+18:15:57:372 [main] WARN  testDefinitions.stepDefinitions -Test passed:user can able to see dashboard
